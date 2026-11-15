@@ -1,1 +1,7 @@
 export(slcestimates)
+importFrom(graphics,abline)
+importFrom(graphics,axis)
+importFrom(graphics,lines)
+importFrom(graphics,par)
+importFrom(graphics,points)
+importFrom(graphics,title)
